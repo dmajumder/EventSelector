@@ -1,0 +1,12 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="DataFormats/Common"/>
+<use name="AnalysisDataFormats/BoostedObjects"/>
+<use name="root"/>
+<export>
+ <lib   name="1"/>
+</export>
+
